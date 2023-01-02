@@ -6,7 +6,7 @@
 
 ### Why use Thermoplastic Polyurethane (TPU) instead of Silicone?
 
-"Typical" soft robots utilise [Silicone](https://www.smooth-on.com/products/ecoflex-00-30/) of eclectic shore hardness' to impart compliance. 
+"Typical" soft robots utilise [Silicone](https://www.smooth-on.com/products/ecoflex-00-30/) of eclectic shore Hardness' to impart compliance. 
 
 #### A few challenges that arise when using Silicone:
 
@@ -16,4 +16,4 @@
     - Inverse moulds of the end product are required to pour Silicone in them.
     - Weighing scales, gloves, eye protection gear, an apron and non-lather soap are necessary. 
 - Accurate mixing ratio of Part A and Part B followed by slow stirring of the liquid rubber.
-- A release agent spray in order for "easy" removal of part from mould.
+- A release agent spray for "easy" removal of part from mould.
