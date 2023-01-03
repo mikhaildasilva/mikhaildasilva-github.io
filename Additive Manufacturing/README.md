@@ -30,6 +30,7 @@
 
 #### The following points are recommendations ascertained through _painful_ experiences 
 
+
 :heavy_exclamation_mark: = important
 
 :bangbang: = extremely important
@@ -41,7 +42,7 @@
 
 | Pain Point | Possible Solution |
 |:---: |:---:|
-|Material not extruding evenly| Make sure dual geared extruder is being used|
+|Material not extruding evenly| Make sure dual geared extruder is being used. <br> TPU has to be dried|
 
 
 ### Vendor list TPU (as of 2 Jan. 2022)
