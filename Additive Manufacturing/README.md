@@ -39,4 +39,5 @@
 |Difficulty          | Filament Name  | Shore Hardness | 
 |:---:               | :---:          | :---:          |     
 | :heavy_check_mark: | [NinjaFlex](https://ninjatek.com/shop/ninjaflex/)      | 85A            |     
-| :heavy_check_mark: | [Ultimaker](https://www.matterhackers.com/store/l/ultimaker-tpu-filament/sk/M5ZFDTT3)      | 95A            |    
+| :heavy_check_mark: | [Ultimaker-TPU](https://www.matterhackers.com/store/l/ultimaker-tpu-filament/sk/M5ZFDTT3)      | 95A            |    
+| :warning:| [Chinchilla](https://ninjatek.com/shop/chinchilla/)      | 75A            |     
