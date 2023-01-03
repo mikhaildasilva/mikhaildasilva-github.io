@@ -2,6 +2,8 @@
 
 ### Glossary
 
+---
+
 [Shore hardness](https://www.smooth-on.com/page/durometer-shore-hardness-scale/) scales provides a point of reference when measuring the ***hardness*** of materials. 
 
 ![Shore Hardness chart](Images/durometer_chart.PNG)<div align="center">Figure 1: *Shore Hardness chart that delineates hardness of ubiquitous items*</div>
@@ -18,4 +20,5 @@
     - Inverse moulds of the end product are required to pour Silicone in them.
     - Weighing scales, gloves, eye protection gear, an apron and non-lather soap are necessary. 
 - Accurate mixing ratio of Part A and Part B followed by slow stirring of the liquid rubber.
-- A release agent spray for "easy" removal of part from mould.
+- A release agent spray for "easy" removal of the part from the mould.
+
