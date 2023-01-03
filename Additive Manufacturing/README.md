@@ -32,15 +32,11 @@
 
 --- 
 
-:heavy_check_mark: = Easy to print. Can use the material profile from this repo as boilerplate. 
+:heavy_check_mark: = Easy to print. Can use the material profile from this repo as a boilerplate. 
 
 :warning: = Difficult to print
-
-| Company      | Shore Hardness | Purchase link |
-| :---:        | :---:          |     :---:     |
-|    | 85A            | Cell 3        |
-| Cell 4       | Cell 5   | Cell 6        |
 
 |Difficulty          | Filament Name  | Shore Hardness | 
 |:---:               | :---:          | :---:          |     
 | :heavy_check_mark: | [NinjaFlex](https://ninjatek.com/shop/ninjaflex/)      | 85A            |     
+| :heavy_check_mark: | [Ultimaker](https://www.matterhackers.com/store/l/ultimaker-tpu-filament/sk/M5ZFDTT3)      | 95A            |    
