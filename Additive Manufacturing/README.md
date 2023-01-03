@@ -4,7 +4,8 @@
 
 [Shore hardness](https://www.smooth-on.com/page/durometer-shore-hardness-scale/) scales provides a point of reference when measuring the ***hardness*** of materials. 
 
-<img src="\fish\Images\durometer_chart.PNG" width=600 />
+<img src="Images/durometer_chart.PNG" width=600 />
+
 
 ### Why use Thermoplastic Polyurethane (TPU) instead of Silicone?
 
