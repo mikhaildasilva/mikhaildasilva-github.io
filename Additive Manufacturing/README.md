@@ -30,7 +30,7 @@
 
 #### Hardware requirements 
 
-:heavy_exclamation_mark: Use a **Direct drive extruder** (DDE): TPU filaments with a shore hardness in the range of **75A-85A** are physically like rubber bands in layman's terms. By using a DDE, one is guiding the filament straight down into the nozzle.
+‼️ Use a **Direct drive extruder** (DDE): TPU filaments with a shore hardness in the range of **75A-85A** are physically like rubber bands in layman's terms. By using a DDE, one is guiding the filament straight down into the nozzle.
  Caveat: TPU 95A is flexible yet rigid enough to be used by an FFF printer with a **Bowden tube extruder**. 
 
 ### Vendor list TPU (as of 2 Jan. 2022)
