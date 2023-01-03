@@ -30,7 +30,7 @@
 
 ##### The following points are recommendations ascertained through _painful_ experiences 
 
-####  :bangbang: Hardware requirements 
+#### Hardware requirements 
 
 :one: Use a **Direct drive extruder** (DDE). TPU filaments with a shore hardness in the range of **75A-85A** are physically like rubber bands in layman's terms. By using a DDE, one is guiding the filament straight down into the nozzle. 
 
