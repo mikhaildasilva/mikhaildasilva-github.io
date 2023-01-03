@@ -41,8 +41,6 @@ Use a **Direct drive extruder** (DDE): TPU filaments with a shore hardness in th
 
 :warning: = Difficult to print
 
-:heavy_exclamation_mark: 
-
 |Difficulty          | Filament Name  | Shore Hardness | 
 |:---:               | :---:          | :---:          |     
 | :heavy_check_mark: | [NinjaFlex](https://ninjatek.com/shop/ninjaflex/)      | 85A            |     
