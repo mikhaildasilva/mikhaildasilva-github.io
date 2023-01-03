@@ -44,8 +44,8 @@
 
 |Parameter                  |Value          |Advice                                         | 
 |:---:                      |:---:          |:---                                           |
-|Print speed ($mm/sec$)     | 15 - 25     |The slower the better. Unless you have a [Hemera](https://e3d-online.com/pages/hemera-feature-page)|
-|Flow rate ($`%`$)            | 106 - 110   |Incrementally adjust based on quality of print.|
+|Print speed ($mm/sec$)     | $15 - 25$     |The slower the better. Unless you have a [Hemera](https://e3d-online.com/pages/hemera-feature-page)|
+|Flow rate (%)              | $106 - 110$   |Incrementally adjust based on quality of print.|
 
 
 ### Vendor list TPU (as of 2 Jan. 2022)
