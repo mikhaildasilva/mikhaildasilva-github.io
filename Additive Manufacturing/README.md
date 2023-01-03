@@ -12,7 +12,7 @@
 
 ---
 
-"Typical" soft robots utilise [Silicone](https://www.smooth-on.com/products/ecoflex-00-30/) of eclectic Shore Hardness' to impart compliance. 
+"Typical" soft robots utilise [Silicone](https://www.smooth-on.com/products/ecoflex-00-30/) of eclectic Shore Hardness' to impart compliance. One of the critical requirements in this project was the speed of prototyping. This is where Additive Manufacturing (3D Printing) using TPU excels.
 
 #### A few challenges that arise when using Silicone:
 
