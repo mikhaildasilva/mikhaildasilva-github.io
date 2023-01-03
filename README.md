@@ -8,5 +8,6 @@
 
 ---
 
-![Actuation](Images/cable.PNG)
+<img src="Images/cable.PNG" alt="Actuation" width="500"/>
+
 
