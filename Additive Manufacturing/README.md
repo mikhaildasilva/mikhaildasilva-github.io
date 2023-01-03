@@ -25,7 +25,7 @@
 - A release agent spray for "easy" removal of the part from the mould.
 
 ### 3D Printing using TPU filament
-##### The following points are recommendations ascertained through _painful_ experiences 
+
 ---
 
 #### Hardware requirements 
