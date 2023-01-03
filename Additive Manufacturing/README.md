@@ -49,7 +49,7 @@
 |Infill (%)                 | $10 - 15$     |Adjust based flexibility of final product.|
 |Infill Pattern             | Gyroid / Cross 3D    |If final product needs to be **flexible**.|
 |Infill Pattern             | Cubic Subdivision / Grid    |If final product needs to be **rigid**.|
-
+|Retraction distance ($mm$)           | 8    |Lower the retraction distance if filament is getting stuck within the gears (75A is prone to this problem.)|
 
 ### Vendor list TPU (as of 2 Jan. 2022)
 
