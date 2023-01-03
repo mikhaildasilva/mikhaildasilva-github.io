@@ -24,26 +24,17 @@
 - Accurate mixing ratio of Part A and Part B followed by slow stirring of the liquid rubber.
 - A release agent spray for "easy" removal of the part from the mould.
 
-### 3D Printing using TPU 
+### 3D Printing using TPU filament
 
 ---
 
-#### The following points are recommendations ascertained through _painful_ experiences 
+##### The following points are recommendations ascertained through _painful_ experiences 
 
+#### :bangbang: Hardware requirements 
 
-:heavy_exclamation_mark: = important
+:one: Use a **Direct drive extruder** (DDE). TPU filaments with a shore hardness in the range of **75A-85A** are physically like rubber bands in layman's terms. By using a DDE, one is guiding the filament straight down into the nozzle. 
 
-:bangbang: = extremely important
-
-:bangbang: TPU filaments need to be printed using [dual geared extruders](https://www.kywoo3d.com/blogs/3d-printer-news/should-i-upgrade-to-dual-geared-extruder) since the filament is flexible.
-
-:heavy_exclamation_mark: TPU is hygroscopic. If not dried before printing creates 
-
-
-| Pain Point | Possible Solution |
-|:---: |:---:|
-|Material not extruding evenly| Make sure dual geared extruder is being used. <br> TPU has to be dried|
-
+:heavy_exclamation_mark: Caveat: TPU 95A is flexible yet rigid enough to be used by an FFF printer with a **Bowden tube extruder**. 
 
 ### Vendor list TPU (as of 2 Jan. 2022)
 
