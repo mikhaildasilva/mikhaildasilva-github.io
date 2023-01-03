@@ -32,10 +32,15 @@
 
 --- 
 
-:heavy_check_mark: => Easy to print. Can use material profile from this repo as boiler plate. 
-:warning: => Difficult to print
+:heavy_check_mark: = Easy to print. Can use the material profile from this repo as boilerplate. 
+
+:warning: = Difficult to print
 
 | Company      | Shore Hardness | Purchase link |
 | :---:        | :---:          |     :---:     |
-| NinjaFlex    | 85A            | Cell 3        |
+|    | 85A            | Cell 3        |
 | Cell 4       | Cell 5   | Cell 6        |
+
+|Difficulty          | Filament Name  | Shore Hardness | 
+|:---:               | :---:          | :---:          |     
+| :heavy_check_mark: | [NinjaFlex](https://ninjatek.com/shop/ninjaflex/)      | 85A            |     
