@@ -47,8 +47,8 @@
 |Print speed ($mm/sec$)     | $15 - 25$     |The slower the better. Unless you have a [Hemera](https://e3d-online.com/pages/hemera-feature-page)|
 |Flow rate (%)              | $106 - 110$   |Incrementally adjust based on quality of print.|
 |Infill (%)                 | $10 - 15$     |Adjust based flexibility of final product.|
-|Infill Pattern             | Gyroid / Cross 3D    |If final product needs to be flexible.|
-|Infill Pattern             | Cubic Subdivision / Grid    |If final product needs to be rigid.|
+|Infill Pattern             | Gyroid / Cross 3D    |If final product needs to be **flexible**.|
+|Infill Pattern             | Cubic Subdivision / Grid    |If final product needs to be **rigid**.|
 
 
 ### Vendor list TPU (as of 2 Jan. 2022)
