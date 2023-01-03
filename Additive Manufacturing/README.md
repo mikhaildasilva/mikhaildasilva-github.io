@@ -35,6 +35,19 @@
     - By using a DDE, one is guiding the filament straight down into the nozzle.
     - _Caveat_: TPU **95A** is flexible yet rigid enough to be used by an FFF printer (Ultimaker S5) with a **Bowden tube extruder**. 
     - [Direct drive v/s Bowden tube](https://www.3djake.com/info/guide/direct-drive-extruder-vs-bowden-extruder) 
+2. TPU is **hygroscopic**:
+    - TPU needs to be dry to obtain [successful prints](https://www.printables.com/model/339968-wet-filament-in-comparison-to-dry-filament-tpu-fle). 
+    - Store filament in a Mylar bag filled with silica. 
+    - Invest or make a [filament drying box](https://www.amazon.com/SUNLU-Filament-Filadryer-Compatible-Filaments/dp/B0B4WKQR24)
+
+#### Slicer Settings 
+
+|Parameter      |Value        |Advice                                         | 
+|:---:          |:---:        |:---                                           |
+|Print speed      | $15 mm/sec$  -  $25 mm/sec$ |Incrementally adjust based on quality of print.|
+
+|Flow rate      | $106%$ - $110%$ |Incrementally adjust based on quality of print.|
+
 
 ### Vendor list TPU (as of 2 Jan. 2022)
 
