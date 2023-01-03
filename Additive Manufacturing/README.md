@@ -1,6 +1,6 @@
 ## Additive Manufacturing 
 
-### Glossary
+### What is Shore Hardness?
 
 ---
 
@@ -9,6 +9,8 @@
 ![Shore Hardness chart](Images/durometer_chart.PNG)<div align="center">Figure 1: *Shore Hardness chart that delineates hardness of ubiquitous items*</div>
 
 ### Why use Thermoplastic Polyurethane (TPU) instead of Silicone?
+
+---
 
 "Typical" soft robots utilise [Silicone](https://www.smooth-on.com/products/ecoflex-00-30/) of eclectic Shore Hardness' to impart compliance. 
 
