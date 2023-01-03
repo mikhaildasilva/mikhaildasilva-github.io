@@ -2,7 +2,7 @@
 
 ---
 
-![Parts](Images/side.PNG)
+<img src="Images/side.PNG" alt="Parts" width="200"/>
 
 ## Tendon-driven actuation 
 
