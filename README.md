@@ -6,7 +6,7 @@
 
 <details>
     <summary>Design and Fabrication</summary>
-    Something small enough to escape casual notice.
+    This modular approach provides the flexibility of performing eclectic locomotion gaits by increasing the number of modules. For instance, a single module can only perform an oscillatory pattern. In contrast, a multi-module (3 and above) displays an undulatory motion. 
 </details>
 
 
