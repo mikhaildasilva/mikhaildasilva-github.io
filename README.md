@@ -2,11 +2,12 @@
 
 ---
 
-<figure>
-  <img src="Images/side.PNG" alt="Parts" width="500" />
-  <figcaption>MDN Logo</figcaption>
-</figure>
+<img src="Images/side.PNG" alt="Parts" width="500"/>
 
+<details>
+    <summary>Design and Fabrication</summary>
+    Something small enough to escape casual notice.
+</details>
 
 
 ## Tendon-driven actuation 
