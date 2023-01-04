@@ -1,15 +1,13 @@
-## Individual components of a single module fish
+## Design and Fabrication
 
 ---
 
-<img src="Images/side.PNG" alt="Parts" width="500"/>
+<figure>
+    <img src="Images/side.PNG" alt="Parts" width="500"/>
+    <figcaption> <b>Figure 1</b>: Components of a single module fish </figcaption>
+</figure>
 
-<details>
-    <summary>Design and Fabrication</summary>
-    
-    A modular approach provides the flexibility of performing eclectic locomotion gaits by increasing the number of modules. <br>
-    Example: 1 module -> oscillatory pattern; multi module (3 and above) -> undulatory pattern
-</details>
+
 
 <details>
 <summary>Component and corresponding material</summary>
