@@ -46,5 +46,4 @@
 <div align="center">
 <img src="Images/working.mp4" alt="working"> </img>
 </div>
-
 <div align="center"> <b>Video 1</b>: Cable spool mechanism in action</div>
