@@ -8,12 +8,13 @@
     <summary>Design and Fabrication</summary>
     
     A modular approach provides the flexibility of performing eclectic locomotion gaits by increasing the number of modules. <br>
-    Example: 1 module -> oscillatory pattern; multi module (3 and above) -> undulatory pattern <br>
+    Example: 1 module -> oscillatory pattern; multi module (3 and above) -> undulatory pattern 
+    
     |Part             | Material |
     |:---:            |:---:     |
     |Caudal fin       |TPU-95A   |
     |Body             |TPU-95A   |
-    |Rigid head       |CPE      |
+    |Rigid head       |CPE       |
     |Servo mount      |PETG      |
 
 </details>
