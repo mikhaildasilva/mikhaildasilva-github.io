@@ -8,6 +8,7 @@
 
 <details>
 <summary>Component and corresponding material</summary>
+    <i> Clicking on Part -> CAD</i> and <i> Clicking on material -> Material profile </i>
     <table>
         <tr>
             <th>Part</th>
