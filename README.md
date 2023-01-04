@@ -9,7 +9,7 @@
 <details open>
     <summary><b>Table 1</b>: Component and material used.</summary>
     <ol>
-        <li>Component link takes you to <link href="https://gitlab.com/mikhaildasilva/fish/-/tree/main/CAD">CAD</link>.</li>
+        <li>Component link takes you to <a href="https://gitlab.com/mikhaildasilva/fish/-/tree/main/CAD">CAD</a>.</li>
         <li>Material link take you to /Material-Profile.</li>
     </ol>
 </details>
