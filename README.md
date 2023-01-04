@@ -2,12 +2,9 @@
 
 ---
 
-<figure>
-    <img src="Images/side.PNG" alt="Parts" width="500"/>
-    <figcaption> <b>Figure 1</b>: Components of a single module fish </figcaption>
-</figure>
+<img src="Images/side.PNG" alt="Parts" width="500"/>
 
-
+**Figure 1**: Components of a single module fish
 
 <details>
 <summary>Component and corresponding material</summary>
