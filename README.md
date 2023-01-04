@@ -2,7 +2,12 @@
 
 ---
 
-<img src="Images/side.PNG" alt="Parts" width="500"/>
+<figure>
+  <img src="Images/side.PNG" alt="Parts" width="500" />
+  <figcaption>MDN Logo</figcaption>
+</figure>
+
+
 
 ## Tendon-driven actuation 
 
