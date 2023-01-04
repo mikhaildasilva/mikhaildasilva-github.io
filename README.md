@@ -20,7 +20,7 @@
 
 ---
 
-A modular approach gives us the latitude to perform eclectic locomotion gaits by increasing the number of modules. For instance, 1 module can only perform an oscillatory pattern. Whereas a multi-module (3 and above) displays an undulatory motion. 
+:exclamation: A modular approach gives us the latitude to perform eclectic locomotion gaits by increasing the number of modules. For instance, 1 module can only perform an oscillatory pattern. Whereas a multi-module (3 and above) displays an undulatory motion. 
 
 
 
