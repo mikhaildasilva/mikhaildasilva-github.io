@@ -18,8 +18,9 @@
 | :---:         | :---:         | :---:         |:---:      |
 |[CPE](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/CPE)        | [PETG](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/PETG)      |  [TPU-95A](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/TPU)      |[TPU-95A](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/TPU)    |
 
+---
 
-
+A modular approach gives us the latitude to perform eclectic locomotion gaits by increasing the number of modules. For instance, 1 module can only perform an oscillatory pattern. Whereas a multi-module (3 and above) displays an undulatory motion. 
 
 
 
