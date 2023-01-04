@@ -9,7 +9,7 @@
 **Table 1**: Component and material used.
 
 <details open>
-    <summary>Table 1 info</summary>
+    <summary><b>Table 1 info</b></summary>
     <ol>
         <li>Component link takes you to ~/CAD.</li>
         <li>Material link take you to /Material-Profile.</li>
