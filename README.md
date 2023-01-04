@@ -43,4 +43,10 @@
 
 3. Similarly when the servo motor moves in an anticlockwise direction the caudal fin moves to position  2.
 
-![Working](Images/working.mp4)
+<div align="center">
+
+![Working](Images/working.mp4) 
+
+</div>
+
+<div align="center"> <b>Video 1</b>: Cable spool mechanism in action</div>
