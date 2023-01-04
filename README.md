@@ -14,9 +14,9 @@
     </ol>
 </details>
 
-|   Rigid head  |   Servo mount | Flexible body | Cudal fin |
+|   Rigid head  |   Servo mount | Flexible body | Caudal fin |
 | :---:         | :---:         | :---:         |:---:      |
-|CPE            | PETG          |  TPU-95A      |TPU-95A    |
+|[CPE](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/CPE)        | [PETG](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/PETG)      |  [TPU-95A](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/TPU)      |[TPU-95A](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/TPU)    |
 
 
 
