@@ -28,10 +28,12 @@
 
 <details open>
 <summary>Actuation mechanism</summary>
+<div align="center">
     <img src="Images/cable.PNG" alt="Actuation" width="500"/>
+    </div>
 </details>
 
-<div align="center"> **Figure 2**: Cable spool mechanism. </div>
+<div align="center"> <b>Figure 2</b>: Cable spool mechanism. </div>
 
 1. The tendon is wound around the servo while the servo motor is in its neutral position. 
 
