@@ -26,7 +26,10 @@
 
 ---
 
-<img src="Images/cable.PNG" alt="Actuation" width="500"/>
+<details open>
+<summary>Actuation mechanism</summary>
+    <img src="Images/cable.PNG" alt="Actuation" width="500"/>
+</details>
 
 **Figure 2**: Cable spool mechanism.
 
