@@ -33,4 +33,4 @@
 
 <img src="Images/cable.PNG" alt="Actuation" width="500"/>
 
-
+**Figure 2**: Cable spool mechanism.
