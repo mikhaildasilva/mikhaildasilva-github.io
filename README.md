@@ -6,32 +6,13 @@
 
 **Figure 1**: Components of a single module fish
 
-<details>
-<summary>Component and corresponding material</summary>
-    <i> Clicking on Part -> CAD</i> and <i> Clicking on material -> Material profile </i>
-    <table>
-        <tr>
-            <th>Part</th>
-            <th>Material</th>
-        </tr>
-        <tr>
-            <td>Caudal fin</td>
-            <td>TPU-95A</td>
-        </tr>
-        <tr>
-            <td>Body</td>
-            <td>TPU-95A</td>
-        </tr>
-        <tr>
-            <td>Rigid head</td>
-            <td>CPE</td>
-        </tr>
-        <tr>
-            <td>Servo mount</td>
-            <td>PETG</td>
-        </tr>
-    </table>
-</details>
+
+|   Rigid head  |   Servo mount | Flexible body | Cudal fin |
+| :---:         | :---:         | :---:         |:---:      |
+|CPE            | PETG          |  TPU-95A      |TPU-95A    |
+
+
+
 
 
 
