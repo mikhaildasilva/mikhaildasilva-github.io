@@ -6,7 +6,7 @@
 <img src="Images/side.PNG" alt="Parts" width="500"/>
 </div>
 
-<div align="center"> <b>Figure 1</b>: Components of a single module fish </div>
+<div align="center"> <b>Figure 1</b>: Components of a single module fish </div><br>
 
 <details open>
     <summary><b>Table 1</b>: Component and material used.</summary>
@@ -35,7 +35,7 @@
     </div>
 </details>
 
-<div align="center"> <b>Figure 2</b>: Cable spool mechanism. </div>
+<div align="center"> <b>Figure 2</b>: Cable spool mechanism. </div><br>
 
 1. The tendon is wound around the servo while the servo motor is in its neutral position. 
 
