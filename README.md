@@ -35,3 +35,7 @@
 2. When the servo motor is rotated in the clockwise direction the exercised tension on right hand side tendon bends the peduncle causing the caudal fin to move to position 1. Simultaneously a force is exerted on the other side of the line. 
 
 3. Similarly when the servo motor moves in an anticlockwise direction the caudal fin moves to position  2.
+
+
+Video
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/786183222?h=26151d9527&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Working"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
