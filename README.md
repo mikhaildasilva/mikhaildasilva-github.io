@@ -36,4 +36,4 @@
 
 3. Similarly when the servo motor moves in an anticlockwise direction the caudal fin moves to position  2.
 
-![Working](https://gitlab.com/mikhaildasilva/fish/-/blob/main/Images/working__720p_.mp4)
+![Working](Images/working.mp4)
