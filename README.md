@@ -14,7 +14,7 @@
     </ol>
 </details>
 
-|   Rigid head  |   Servo mount | Flexible body | Caudal fin |
+|   [Rigid head](https://gitlab.com/mikhaildasilva/fish/-/tree/main/CAD/Head)  |   [Servo mount](https://gitlab.com/mikhaildasilva/fish/-/tree/main/CAD/Servo-Mount) | [Flexible body](https://gitlab.com/mikhaildasilva/fish/-/tree/main/CAD/Body) | [Caudal fin](https://gitlab.com/mikhaildasilva/fish/-/tree/main/CAD/Caudal-Fin) |
 | :---:         | :---:         | :---:         |:---:      |
 |[CPE](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/CPE)        | [PETG](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/PETG)      |  [TPU-95A](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/TPU)      |[TPU-95A](https://gitlab.com/mikhaildasilva/fish/-/tree/main/Additive%20Manufacturing/Material-Profile/TPU)    |
 
