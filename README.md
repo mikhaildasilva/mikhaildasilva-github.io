@@ -8,7 +8,11 @@
     <summary>Design and Fabrication</summary>
     
     A modular approach provides the flexibility of performing eclectic locomotion gaits by increasing the number of modules. <br>
-    Example: 1 module -> oscillatory pattern; multi module (3 and above) -> undulatory pattern <br>
+    Example: 1 module -> oscillatory pattern; multi module (3 and above) -> undulatory pattern
+</details>
+
+<details>
+<summary>Component and corresponding material</summary>
     <table>
         <tr>
             <th>Part</th>
@@ -32,6 +36,11 @@
         </tr>
     </table>
 </details>
+
+
+
+
+
 
 ## Tendon-driven actuation 
 
