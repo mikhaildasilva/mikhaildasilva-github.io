@@ -1,3 +1,4 @@
+[__TOC__]
 ## Design and Fabrication
 
 ---
