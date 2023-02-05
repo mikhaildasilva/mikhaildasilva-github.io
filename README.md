@@ -48,5 +48,7 @@
 <img src="Images/working.mp4" alt="working"> </img>
 </div>
 <div align="center"> <b>Video 1</b>: Cable spool mechanism in action</div><br>
+<div align="center>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/795956561?h=c95f07c055" width="640" height="1142" frameborder="0" allowfullscreen></iframe>
+</div>
