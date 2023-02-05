@@ -1,15 +1,15 @@
+
+
 # Single Module Fish
 
 ---
 
+[[_TOC_]]
+
 <div align="center">
-<img src="Images/single-fiah.mp4" alt="swimming"> </img>
+<img src="Images/single-fish.mp4" alt="swimming"> </img>
 </div>
 <div align="center"> <b>Video 1</b>: Ocillation gait</div><br>
-
-
-
-[[_TOC_]]
 
 ## Design and Fabrication
 
