@@ -49,4 +49,4 @@
 </div>
 <div align="center"> <b>Video 1</b>: Cable spool mechanism in action</div><br>
 
-<iframe src="https://player.vimeo.com/video/795956561?h=c95f07c055&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="604" height="1076" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Single Module Fish"></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/795956561?h=c95f07c055" width="640" height="1142" frameborder="0" allowfullscreen></iframe>
