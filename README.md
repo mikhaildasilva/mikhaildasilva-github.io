@@ -1,9 +1,4 @@
-
-
-# Single Module Fish
-
----
-
+## Table of Contents
 [[_TOC_]]
 
 ---
