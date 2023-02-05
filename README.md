@@ -1,4 +1,16 @@
+# Single Module Fish
+
+---
+
+<div align="center">
+<img src="Images/single-fiah.mp4" alt="swimming"> </img>
+</div>
+<div align="center"> <b>Video 1</b>: Ocillation gait</div><br>
+
+
+
 [[_TOC_]]
+
 ## Design and Fabrication
 
 ---
@@ -47,4 +59,5 @@
 <div align="center">
 <img src="Images/working.mp4" alt="working"> </img>
 </div>
-<div align="center"> <b>Video 1</b>: Cable spool mechanism in action</div><br>
+<div align="center"> <b>Video 2</b>: Cable spool mechanism in action</div><br>
+
