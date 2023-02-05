@@ -1,5 +1,6 @@
 ## Table of Contents
-[[_TOC_]]
+
+__TOC__
 
 ---
 
